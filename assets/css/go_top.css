@@ -1,0 +1,12 @@
+.text-block {
+  width: 250px;
+  margin: 50px;
+}
+
+#go-top {
+  position: fixed; 
+  bottom: 55px; 
+  right: 30px; 
+  cursor:pointer; 
+  display:none;
+}
